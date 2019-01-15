@@ -1,13 +1,3 @@
-/*
-
-Ziwen Wang 101071063
-Zeye Gu 101036562
-
-Keyboard keyUP handler is used to trigger communication with the
-server via POST message sending JSON dat
-*/
-
-//Use javascript array of objects to represent lyrics and their locations
 let lyrics = []
 let lyricsText = []
 var movingString = {word: "Moving",
