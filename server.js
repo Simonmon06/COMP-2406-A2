@@ -1,17 +1,4 @@
-/*
-Zeye Gu 101036562
-Ziwen Wang 101071063
 
-Example Server that is prepared to receive GET and POST HTTP requests.
-GET requests are handled as a request for a file.
-POST requests are expected to contain JSON data in the message body.
-*/
-
-
-
-
-
-//key:The text that users should enter, value: the path of song files.
 var songsFile = {
   "Brown Eyed Girl": "html/songs/Brown Eyed Girl.txt",
   "Peaceful Easy Feeling": "html/songs/Peaceful Easy Feeling.txt",
